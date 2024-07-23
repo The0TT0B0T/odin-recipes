@@ -1,0 +1,21 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: #dfcdcd;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    color: #432c7c;
+    font-weight: 800;
+}
+
+.nav-bar a {
+    background-color: #432c7c;
+    color: white;
+    font-size: 20px;
+}
+.nav-bar {
+    background-color: #432c7c;
+}
+ 
