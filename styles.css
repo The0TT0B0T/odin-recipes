@@ -1,21 +1,30 @@
 * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: #dfcdcd;
-    text-align: center;
 }
 
-h1 {
-    font-size: 50px;
-    color: #432c7c;
-    font-weight: 800;
+.header {
+font-size: 30px;
+color: #4d2068;
+text-align: center;
+padding: 10px;
 }
 
-.nav-bar a {
-    background-color: #432c7c;
-    color: white;
-    font-size: 20px;
-}
 .nav-bar {
-    background-color: #432c7c;
+    font-size: 25px;
+    color: #4d2068;
+    text-align: center;
+    border: 6px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding: 5px;
 }
- 
+.nav-bar a {
+    padding: 15px;
+    text-decoration: none;
+    font-weight: 800;
+    display: inline-block;
+}
